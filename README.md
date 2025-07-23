@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Singh Tomar
 
-I’m a backend-focused software developer who enjoys building secure, scalable, and meaningful solutions — with clean code and clear thinking.
+I’m a fullstack software developer who enjoys building secure, scalable, and meaningful solutions — with clean code and clear thinking.
 
 ---
 
